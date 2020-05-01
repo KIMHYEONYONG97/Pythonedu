@@ -1,1 +1,1 @@
-a = 1b = 2result = 3def add (a , b):    result = a+b    print("답은? %d" % result)    add(a,b)
+a = 1b = 2result = 3def add (a , b):    result = a + b    print("답은? %d" % result)add(a,b)c = 0b0011d= 0b011def add2(c,d):    result = c&d    print ("%x" %result)add2(c,d)ch ="kimhyeonyong"print(ch)print(ch[:1]+ 'k'+ch[9:])
