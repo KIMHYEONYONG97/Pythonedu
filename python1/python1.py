@@ -1,0 +1,1 @@
+a = 1b = 2result = 3def add (a , b):    result = a+b    print("답은? %d" % result)    add(a,b)
